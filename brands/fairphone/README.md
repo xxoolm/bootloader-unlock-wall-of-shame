@@ -10,10 +10,10 @@ Not very fair in my opinion, but whatever fairs your phone.
 
 They also [broke Verified Boot][verified-boot], lol
 
-With firmware FP3.6.A.040.2 on the Fairphone 3, Fairphone switched to the [standard unlock procedure]((../../misc/generic-unlock.md)), however all other Fairphone devices still require their webtsite.
+With firmware FP3.6.A.040.2 on the Fairphone 3, Fairphone switched to the [standard unlock procedure]((../../misc/generic-unlock.md)), however all other Fairphone devices still require their website.
 
 ***
-Authored by [melontini](https://github.com/melontini).
+Authored by [zenfyr](https://zenfyr.dev).
 
 [unlock-website]:https://shop.fairphone.com/bootloader-unlocking-code-for-fairphone
 [verified-boot]:https://forum.fairphone.com/t/bootloader-avb-keys-used-in-roms-for-fairphone-3-4/83448/4
